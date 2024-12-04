@@ -1,0 +1,2 @@
+# morinokumasan_practice
+morinokumasan practice repository
